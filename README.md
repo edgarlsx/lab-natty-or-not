@@ -1,16 +1,21 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# lab-natty-or-not ;)
+Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!"
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Introdução
+Inspirado na hype "Natty or Not" do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot.
+
+# 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+
+## 🤖 Objetivos
+### Explorar IAs Generativas:
+Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Homem Glorificando à Deus o Pai que esta no céu. Matheus 5:16 NTLH
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+![image](https://github.com/user-attachments/assets/57b742d0-3ba1-422e-a52d-4bf0e42e1508)
+![image](https://github.com/user-attachments/assets/1c0b07d2-d2bb-41cb-bd46-2ca11d48e753)
