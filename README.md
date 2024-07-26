@@ -14,7 +14,7 @@ Copilot.
 Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
 ## 🧐 Processo de Criação
-Homem Glorificando à Deus o Pai que esta no céu. Matheus 5:16 NTLH
+Homem Glorificando à Deus o Pai que esta no céu. Mateus 5:16 NTLH
 
 ## 🚀 Resultados
 ![image](https://github.com/user-attachments/assets/57b742d0-3ba1-422e-a52d-4bf0e42e1508)
